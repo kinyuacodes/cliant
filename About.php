@@ -109,7 +109,8 @@ include("main.php");
             <i class="fas fa-hiking"></i>
             <h3>About me </h3>
             <p> 
-                   <h1>Hi</h1>My Name is <span class="green">Kelvin Kinyua</span>. A very enthusiastic guy Who loves to code and and solve web  promblems using php . i have over 2years in Back end web development.
+                   <h1>Hi</h1>
+                   My Name is <span class="green">Kelvin Kinyua</span>. A very enthusiastic guy Who loves to code and and solve web  promblems using php . i have over 2years in Back end web development.
                    Im A God fearing Born Again christian who beleives in miracles
             </p>
         </div>
